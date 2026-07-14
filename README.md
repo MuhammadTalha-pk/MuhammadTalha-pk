@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! 👋 I'm Muhammad Talha
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=900&color=00B8D9&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Hi+There!+%F0%9F%91%8B;I%27m+Muhammad+Talha;Software+Engineer+%7C+Flutter+Developer;Backend+%7C+AI%2FML+%7C+Computer+Vision)](https://git.io/typing-svg)
 
 ### Software Engineer | Full-Stack Flutter Developer | Backend & AI/ML | Computer Vision
 
@@ -17,7 +17,6 @@
 </a>
 
 </div>
-
 ---
 
 ## 👨‍💻 About Me
@@ -137,26 +136,6 @@ The project reduces manual coordination and provides a clear digital record of e
 **Technologies:** Flutter, ASP.NET Web API and MSSQL
 
 [View Repository](https://github.com/MuhammadTalha-pk/BIIT-Societies-Events-Requisition-System)
-
----
-
-## 💼 Experience
-
-### AI Developer Intern / Backend + AI Lead
-
-- Developed AI-powered services using FastAPI.
-- Built an AI nail-design generation API.
-- Integrated Firebase Storage and Firestore.
-- Worked on a FastAPI and PostgreSQL healthcare platform.
-- Developed authentication, users, doctors, appointments and reminders APIs.
-- Worked on AI medication reminders and email/SMS reminder services.
-
-### Freelance Software Developer
-
-- Developed a personal productivity and journaling web application.
-- Built a Chinese calligraphy character extractor using Python and OpenCV.
-- Authored a 46-page System Design Specification for an international client.
-- Provided software development and technical documentation services.
 
 ---
 
