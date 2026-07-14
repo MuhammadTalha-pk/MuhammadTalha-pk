@@ -22,17 +22,17 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Engineer and Full-Stack Flutter Developer with practical experience in mobile application development, backend APIs, databases, artificial intelligence, machine learning and computer vision.
+I am a Software Engineer and Full-Stack Flutter Developer with practical experience in mobile application development, backend systems, databases, artificial intelligence, machine learning and computer vision.
 
 - 🎓 BS Computer Science graduate from BIIT, Rawalpindi — CGPA: 3.8/4.0
+- 📱 Developing cross-platform mobile applications using Flutter and Dart
+- ⚙️ Building backend APIs using FastAPI and ASP.NET Web API
+- 🗄️ Working with PostgreSQL, MSSQL, Firebase Firestore and SQLite
+- 🤖 Working with YOLOv8, OpenCV, MediaPipe, face recognition and pose estimation
+- 🛩️ Developed a drone-based surveillance and boundary-monitoring system
 - 💼 Working as an AI Developer Intern and Backend + AI Lead
-- 📱 Building cross-platform mobile applications using Flutter and Dart
-- ⚙️ Developing backend systems using FastAPI, ASP.NET Web API and PostgreSQL
-- 🤖 Working with YOLO, OpenCV, MediaPipe, face recognition and pose estimation
-- 🛩️ Developed Uqaab, a drone-based house boundary monitoring system
-- 🌍 Providing freelance software services to international clients
+- 🌍 Providing freelance development services to international clients
 - 📍 Based in Rawalpindi, Pakistan
-- 📫 Email: muhammadtalha4127@gmail.com
 
 ---
 
@@ -51,7 +51,7 @@ I am a Software Engineer and Full-Stack Flutter Developer with practical experie
 ### Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -60,7 +60,8 @@ I am a Software Engineer and Full-Stack Flutter Developer with practical experie
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -70,13 +71,13 @@ I am a Software Engineer and Full-Stack Flutter Developer with practical experie
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Object_Detection-111F68?style=for-the-badge)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Face_Detection-0097A7?style=for-the-badge)
-![AI/ML](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-FF6F00?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge)
 
 ### Tools and Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -86,61 +87,34 @@ I am a Software Engineer and Full-Stack Flutter Developer with practical experie
 
 ## 🚀 Featured Projects
 
-### 🛩️ Uqaab — Drone-Based House Boundary Monitoring System
+### 🛩️ Uqaab — Drone-Based House Boundary Wall Monitoring System
 
-A proof-of-concept autonomous drone surveillance system designed for GPS-denied outdoor environments.
+A proof-of-concept autonomous drone surveillance and boundary-monitoring system designed for GPS-denied outdoor environments.
 
-The system combines Flutter, FastAPI, PostgreSQL, ESP32, ArduPilot, YOLOv8 and computer vision for GPS-free navigation, real-time monitoring, person detection, weapon detection, face verification and wall-climbing detection.
+The system uses five ESP32 microcontrollers and an ESP-NOW sensor network to support GPS-free drone navigation through a laser positioning grid.
+
+It includes:
+
+- Real-time person and weapon detection using a custom YOLOv8 model
+- Face detection and verification using MediaPipe and dlib
+- Wall-climbing detection using pose estimation
+- Live RTSP camera streaming
+- WebSocket-based real-time alerts
+- Drone monitoring and control through Flutter dashboards
+- JWT-secured authentication
+- PostgreSQL database with normalized tables for cameras, drones, alerts and detection events
+
+**Technologies:** Flutter, FastAPI, PostgreSQL, ESP32, ESP-NOW, ArduPilot, YOLOv8, OpenCV, MediaPipe, dlib and WebSockets
 
 [View Repository](https://github.com/MuhammadTalha-pk/Drone-based-House-Boundary-Wall-Monitoring-System)
 
 ---
 
-### 📊 Daily Routine Growth Dashboard
-
-A personal productivity and journaling web application developed for an international client.
-
-It was built using HTML, JavaScript and Firebase and includes authentication, real-time data synchronization and deployment on Vercel.
-
-[View Repository](https://github.com/MuhammadTalha-pk/Daily-Routine-Growth-Dashboard)
-
----
-
-### ✍️ Chinese Calligraphy Character Extractor
-
-A Python and OpenCV tool developed for a client to process scanned Chinese calligraphy practice sheets.
-
-It detects grid lines, segments individual cells, crops characters, removes grid lines and supports automatic character labelling.
-
-[View Repository](https://github.com/MuhammadTalha-pk/calligraphy-extractor)
-
----
-
-### 💰 Khata Book — Digital Ledger Application
-
-A Flutter-based digital ledger application with a local SQLite database.
-
-It supports business, customer, transaction and expense management with automatic real-time balance calculations.
-
-[View Repository](https://github.com/MuhammadTalha-pk/khata-book-app)
-
----
-
-### 🎓 Attendance Management System
-
-A role-based Flutter attendance application developed for teachers and students.
-
-It includes course, section and timetable management, attendance marking, attendance records and claim requests, integrated with ASP.NET Web API and MSSQL.
-
-[View Repository](https://github.com/MuhammadTalha-pk/Attandance-system)
-
----
-
 ### 🏛️ BIIT Societies Events Requisition System
 
-A role-based event requisition and approval system developed for university societies.
+A role-based mobile application developed to digitalize the event requisition and approval process for university societies.
 
-The system supports a multi-stage approval workflow across five roles:
+The system uses a multi-stage approval workflow across five organizational roles:
 
 - Chairperson
 - Student Affairs
@@ -148,59 +122,41 @@ The system supports a multi-stage approval workflow across five roles:
 - IT Head
 - Staff Head
 
-It enables budget review, resource allocation, requisition approval or rejection, history management and live status tracking.
+It includes:
+
+- Event requisition submission
+- Budget review and approval
+- Resource allocation
+- Role-specific dashboards
+- Accepted and rejected request history
+- Live requisition status tracking
+- Multi-stage approval and rejection workflow
+
+The project reduces manual coordination and provides a clear digital record of each society event request.
 
 **Technologies:** Flutter, ASP.NET Web API and MSSQL
 
-> Add your repository link here after uploading this project to GitHub.
+[View Repository](https://github.com/MuhammadTalha-pk/BIIT-Societies-Events-Requisition-System)
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Experience
 
-### AI Developer Intern and Backend + AI Lead
+### AI Developer Intern / Backend + AI Lead
 
-- Developed AI-powered APIs using FastAPI.
-- Built an AI nail-design generation service.
+- Developed AI-powered services using FastAPI.
+- Built an AI nail-design generation API.
 - Integrated Firebase Storage and Firestore.
-- Working on a healthcare backend using FastAPI and PostgreSQL.
-- Developing authentication, appointments, reminders and AI medication-reminder services.
+- Worked on a FastAPI and PostgreSQL healthcare platform.
+- Developed authentication, users, doctors, appointments and reminders APIs.
+- Worked on AI medication reminders and email/SMS reminder services.
 
 ### Freelance Software Developer
 
-- Developed a productivity and journaling dashboard for an international client.
-- Built a Chinese calligraphy character extraction tool using Python and OpenCV.
-- Authored a 46-page System Design Specification for a Student Grade Management System.
-- Worked with international clients on software development and technical documentation.
-
----
-
-## 🏅 Achievements
-
-- 🥇 First Position — Python for Beginners, PMAS Arid Agriculture University
-- 🥈 Second Position — Graphic Designing, PMAS Arid Agriculture University
-- 📜 Introduction to Generative AI Studio — Google Cloud and Simplilearn
-- 📜 Attended PHP Laravel Workshop
-- 📜 Attended WordPress Basics Workshop
-
----
-
-## 🤝 Leadership and Community
-
-### Environmental and Social Service Society — BIIT
-
-- Active member and organizer from 2022 to 2026.
-- Organized social and environmental awareness activities.
-- Participated in lunch distribution drives.
-- Supported cancer and no-smoking awareness campaigns.
-- Participated in blood donation camps.
-- Attended emergency response training with Rescue 1122.
-- Received an official appreciation letter for contributions and teamwork.
-
-### BIIT Movie Society
-
-- Participated in university advertisements and media projects.
-- Received a Certificate of Appreciation as an “Actor of Impactful Advertisement.”
+- Developed a personal productivity and journaling web application.
+- Built a Chinese calligraphy character extractor using Python and OpenCV.
+- Authored a 46-page System Design Specification for an international client.
+- Provided software development and technical documentation services.
 
 ---
 
