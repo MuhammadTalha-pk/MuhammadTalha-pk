@@ -106,37 +106,6 @@ It includes:
 
 [View Repository](https://github.com/MuhammadTalha-pk/Drone-based-House-Boundary-Wall-Monitoring-System)
 
----
-
-### 🏛️ BIIT Societies Events Requisition System
-
-A role-based mobile application developed to digitalize the event requisition and approval process for university societies.
-
-The system uses a multi-stage approval workflow across five organizational roles:
-
-- Chairperson
-- Student Affairs
-- Accounts Office
-- IT Head
-- Staff Head
-
-It includes:
-
-- Event requisition submission
-- Budget review and approval
-- Resource allocation
-- Role-specific dashboards
-- Accepted and rejected request history
-- Live requisition status tracking
-- Multi-stage approval and rejection workflow
-
-The project reduces manual coordination and provides a clear digital record of each society event request.
-
-**Technologies:** Flutter, ASP.NET Web API and MSSQL
-
-[View Repository](https://github.com/MuhammadTalha-pk/BIIT-Societies-Events-Requisition-System)
-
----
 
 ## 📬 Connect With Me
 
