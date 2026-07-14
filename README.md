@@ -4,12 +4,16 @@
 
 ### Software Engineer | Full-Stack Flutter Developer | Backend & AI/ML | Computer Vision
 
-<a href="https://www.linkedin.com/in/muhammad-talha-541766341">
+<a href="https://www.linkedin.com/in/muhammadtalha-pk/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:muhammadtalha4127@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/MuhammadTalha-pk">
+  <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -18,13 +22,13 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Engineer and Full-Stack Flutter Developer with hands-on experience in mobile application development, backend APIs, databases, artificial intelligence, machine learning and computer vision.
+I am a Software Engineer and Full-Stack Flutter Developer with practical experience in mobile application development, backend APIs, databases, artificial intelligence, machine learning and computer vision.
 
-- 🎓 BS Computer Science from BIIT, Rawalpindi — CGPA: 3.8/4.0
-- 💼 AI Developer Intern and Backend + AI Lead at TechNexus Virtual University
+- 🎓 BS Computer Science graduate from BIIT, Rawalpindi — CGPA: 3.8/4.0
+- 💼 Working as an AI Developer Intern and Backend + AI Lead
 - 📱 Building cross-platform mobile applications using Flutter and Dart
-- ⚙️ Developing backend systems with FastAPI, ASP.NET Web API and PostgreSQL
-- 🤖 Working with AI/ML, YOLO, OpenCV, MediaPipe and face recognition
+- ⚙️ Developing backend systems using FastAPI, ASP.NET Web API and PostgreSQL
+- 🤖 Working with YOLO, OpenCV, MediaPipe, face recognition and pose estimation
 - 🛩️ Developed Uqaab, a drone-based house boundary monitoring system
 - 🌍 Providing freelance software services to international clients
 - 📍 Based in Rawalpindi, Pakistan
@@ -34,7 +38,7 @@ I am a Software Engineer and Full-Stack Flutter Developer with hands-on experien
 
 ## 🛠️ Technical Skills
 
-### Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -57,8 +61,9 @@ I am a Software Engineer and Full-Stack Flutter Developer with hands-on experien
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### AI, ML and Computer Vision
 
@@ -83,68 +88,133 @@ I am a Software Engineer and Full-Stack Flutter Developer with hands-on experien
 
 ### 🛩️ Uqaab — Drone-Based House Boundary Monitoring System
 
-Autonomous drone surveillance system developed for GPS-denied environments using Flutter, FastAPI, PostgreSQL, ESP32, ArduPilot, YOLOv8 and computer vision.
+A proof-of-concept autonomous drone surveillance system designed for GPS-denied outdoor environments.
+
+The system combines Flutter, FastAPI, PostgreSQL, ESP32, ArduPilot, YOLOv8 and computer vision for GPS-free navigation, real-time monitoring, person detection, weapon detection, face verification and wall-climbing detection.
 
 [View Repository](https://github.com/MuhammadTalha-pk/Drone-based-House-Boundary-Wall-Monitoring-System)
 
+---
+
 ### 📊 Daily Routine Growth Dashboard
 
-Personal productivity and journaling web application developed with HTML, JavaScript and Firebase, featuring authentication and real-time data synchronization.
+A personal productivity and journaling web application developed for an international client.
+
+It was built using HTML, JavaScript and Firebase and includes authentication, real-time data synchronization and deployment on Vercel.
 
 [View Repository](https://github.com/MuhammadTalha-pk/Daily-Routine-Growth-Dashboard)
 
+---
+
 ### ✍️ Chinese Calligraphy Character Extractor
 
-Python and OpenCV tool that detects grid lines, extracts individual Chinese characters, removes grid lines and supports automatic character labelling.
+A Python and OpenCV tool developed for a client to process scanned Chinese calligraphy practice sheets.
+
+It detects grid lines, segments individual cells, crops characters, removes grid lines and supports automatic character labelling.
 
 [View Repository](https://github.com/MuhammadTalha-pk/calligraphy-extractor)
 
-### 💰 Khata Book Application
+---
 
-Flutter-based digital ledger application with SQLite for managing businesses, customers, transactions, expenses and real-time balances.
+### 💰 Khata Book — Digital Ledger Application
+
+A Flutter-based digital ledger application with a local SQLite database.
+
+It supports business, customer, transaction and expense management with automatic real-time balance calculations.
 
 [View Repository](https://github.com/MuhammadTalha-pk/khata-book-app)
 
+---
+
 ### 🎓 Attendance Management System
 
-Role-based Flutter attendance application with course, section, timetable, attendance and claim-request management.
+A role-based Flutter attendance application developed for teachers and students.
+
+It includes course, section and timetable management, attendance marking, attendance records and claim requests, integrated with ASP.NET Web API and MSSQL.
 
 [View Repository](https://github.com/MuhammadTalha-pk/Attandance-system)
 
 ---
 
-## 📊 GitHub Statistics
+### 🏛️ BIIT Societies Events Requisition System
 
-<div align="center">
+A role-based event requisition and approval system developed for university societies.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadTalha-pk&show_icons=true&hide_border=true&theme=transparent">
+The system supports a multi-stage approval workflow across five roles:
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTalha-pk&layout=compact&hide_border=true&theme=transparent">
+- Chairperson
+- Student Affairs
+- Accounts Office
+- IT Head
+- Staff Head
 
-</div>
+It enables budget review, resource allocation, requisition approval or rejection, history management and live status tracking.
 
----
+**Technologies:** Flutter, ASP.NET Web API and MSSQL
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadTalha-pk&theme=flat&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+> Add your repository link here after uploading this project to GitHub.
 
 ---
 
-## 🤝 Connect With Me
+## 💼 Experience Highlights
 
-- LinkedIn: [Muhammad Talha](https://www.linkedin.com/in/muhammad-talha-541766341)
-- GitHub: [MuhammadTalha-pk](https://github.com/MuhammadTalha-pk)
-- Email: muhammadtalha4127@gmail.com
+### AI Developer Intern and Backend + AI Lead
+
+- Developed AI-powered APIs using FastAPI.
+- Built an AI nail-design generation service.
+- Integrated Firebase Storage and Firestore.
+- Working on a healthcare backend using FastAPI and PostgreSQL.
+- Developing authentication, appointments, reminders and AI medication-reminder services.
+
+### Freelance Software Developer
+
+- Developed a productivity and journaling dashboard for an international client.
+- Built a Chinese calligraphy character extraction tool using Python and OpenCV.
+- Authored a 46-page System Design Specification for a Student Grade Management System.
+- Worked with international clients on software development and technical documentation.
+
+---
+
+## 🏅 Achievements
+
+- 🥇 First Position — Python for Beginners, PMAS Arid Agriculture University
+- 🥈 Second Position — Graphic Designing, PMAS Arid Agriculture University
+- 📜 Introduction to Generative AI Studio — Google Cloud and Simplilearn
+- 📜 Attended PHP Laravel Workshop
+- 📜 Attended WordPress Basics Workshop
+
+---
+
+## 🤝 Leadership and Community
+
+### Environmental and Social Service Society — BIIT
+
+- Active member and organizer from 2022 to 2026.
+- Organized social and environmental awareness activities.
+- Participated in lunch distribution drives.
+- Supported cancer and no-smoking awareness campaigns.
+- Participated in blood donation camps.
+- Attended emergency response training with Rescue 1122.
+- Received an official appreciation letter for contributions and teamwork.
+
+### BIIT Movie Society
+
+- Participated in university advertisements and media projects.
+- Received a Certificate of Appreciation as an “Actor of Impactful Advertisement.”
+
+---
+
+## 📬 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/muhammadtalha-pk](https://www.linkedin.com/in/muhammadtalha-pk/)
+- **GitHub:** [github.com/MuhammadTalha-pk](https://github.com/MuhammadTalha-pk)
+- **Email:** [muhammadtalha4127@gmail.com](mailto:muhammadtalha4127@gmail.com)
+- **Location:** Rawalpindi, Pakistan
 
 ---
 
 <div align="center">
 
-### Building reliable software and intelligent solutions.
+### Building reliable software, intelligent systems and practical digital solutions.
 
 </div>
